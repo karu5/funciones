@@ -1,2 +1,2 @@
 Deploy: https://github.com/karu5/funciones  //
-Web:
+Web: https://karu5.github.io/funciones/
