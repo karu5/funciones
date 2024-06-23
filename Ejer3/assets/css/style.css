@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+}
+
+#container1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+#container2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+#container3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+#container4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+
+
